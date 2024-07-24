@@ -68,7 +68,7 @@ class _BluetoothScreenState extends State<BluetoothScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Bluetooth Devices (By Deva)'),
+        title: Text('Bluetooth Devices (By Syifa)'),
       ),
       body: ListView.builder(
         itemCount: devices.length,
